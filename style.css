@@ -1,3 +1,6 @@
 html, body {
    margin: 0;
+   font-family:'ProximaNova';
+   font-size: 16px;
+   font-weight: normal;
 }
